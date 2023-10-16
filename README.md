@@ -16,15 +16,15 @@
     </a>
 </p>
 
-# pythonbangla.com
+
 A dynamic content management system for publishing youtube videos and blog post in a single page web application.
 I developed this web app to place all my youtube video tutorials and related blog post links in one place.
 
-Demo 1 🤓: [Django + PostgreSQL + Heroku](https://pb-947583-bn474.herokuapp.com) | Source Code: [Github Django](https://github.com/mahmudahsan/pythonbangla.com)
+Demo 1 🤓: [Django + PostgreSQL + Heroku](https://pb-947583-bn474.herokuapp.com) 
 
-Demo 2 😎: [React + Firebase](http://pythonbangla.com) | Source Code: [Github React](https://github.com/mahmudahsan/python-bangla-react)
+Demo 2 😎: [React + Firebase](http://pythonbangla.com) 
 
-## 🔥 I developed a React and Firebase based similar project. Checkout the React based project's source code [https://github.com/mahmudahsan/python-bangla-react](https://github.com/mahmudahsan/python-bangla-react)
+## 🔥 I developed a React and Firebase based similar project.
 
 ## Usage
 If you know django, postgresql, bootstrap you can easily modify html template and backend according to your project needs. But if you just want a site like the demo [Pythonbangla.com](http://pythonbangla.com) you can change the images in static directory in the project, and add contents from your or your client's youtube channel or blog post. To know how to setup, follow the table of contents.
