@@ -45,7 +45,7 @@ If you know django, postgresql, bootstrap you can easily modify html template an
 - [Setup And Running in Heroku with static content](#setup-and-running-in-heroku-with-static-content)
 - [How to force https in django](#how-to-force-https-in-django)
 - [Contribution](#contribution)
-- [Questions or feedback?](#questions-or-feedback)
+
 
 ## Technology Used
 1. [Django](https://www.djangoproject.com/)
@@ -424,6 +424,3 @@ CSRF_COOKIE_SECURE = True
 ## Contribution
 If you want to contribute on this project, you're welcome to fork the project and submit a pull request. Just try to not break the existing things.
 
-## Questions or feedback?
-
-Feel free to [open an issue](https://github.com/mahmudahsan/pythonbangla.com/issues/new), or find me [@mahmudahsan on Twitter](https://twitter.com/mahmudahsan).
